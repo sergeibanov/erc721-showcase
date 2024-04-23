@@ -6,8 +6,6 @@ ERC721ShowCase demonstrates the development, deployment, and interaction with ER
 
 - **Foundry Toolchain**: Employs Foundry for smart contract development, testing, and deployment.
 
-- **Advanced ERC20 Contract**: Implements the ERC20 token standard, incorporating additional industry standards for enhanced functionality.
-
 - **Web3.js**: Uses web3.js for interacting with the Ethereum blockchain, specifically on the Sepolia Testnet.
 
 - **Alchemy Deployment**: Utilizes Alchemy for efficient and reliable smart contract deployment to the Ethereum network.
