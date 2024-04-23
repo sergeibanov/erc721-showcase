@@ -1,0 +1,21 @@
+{
+  "name": "erc721tokenshowcase",
+  "version": "1.0.0",
+  "description": "ERC721 Token Showcase",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sergei_banov",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "alchemy-sdk": "^3.1.2",
+    "dotenv-safe": "^9.1.0",
+    "web3": "^4.5.0"
+  }
+}
